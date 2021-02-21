@@ -13,7 +13,7 @@
   <a href="https://twitter.com/binjmhu">
     <img src="https://img.shields.io/static/v1?label=&message=Twitter&color=00acee&style=for-the-badge&logoColor=fefefe&logo=twitter" />
   </a href="https://discord.com/channels/@me">
-    <img src="https://img.shields.io/static/v1?label=&message=jm%230359&color=7289da&style=for-the-badge&logoColor=fefefe&logo=discord" />
+    <img src="https://img.shields.io/static/v1?label=&message=binho%230359&color=7289da&style=for-the-badge&logoColor=fefefe&logo=discord" />
   </a>
   <a href="https://repl.it/@binjmhu">
     <img src="https://img.shields.io/static/v1?label=&message=Repl.it&color=56676e&style=for-the-badge&logoColor=fefefe&logo=repl.it" />
